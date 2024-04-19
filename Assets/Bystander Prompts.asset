@@ -730,7 +730,7 @@ MonoBehaviour:
         typeString: 
       conversationID: 2
       isRoot: 0
-      isGroup: 0
+      isGroup: 1
       nodeColor: 
       delaySimStatus: 0
       falseConditionAction: Block
@@ -768,7 +768,7 @@ MonoBehaviour:
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
-        value: 1
+        value: 2
         type: 5
         typeString: CustomFieldType_Actor
       - title: Menu Text
@@ -783,7 +783,7 @@ MonoBehaviour:
       - title: Sequence
         value: '{{default}};
 
-          Delay(6))'
+          Delay(6));'
         type: 0
         typeString: 
       - title: Response Menu Sequence
@@ -811,8 +811,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 254.90187
-        y: 497.55087
+        x: 257.40186
+        y: 495.05087
         width: 160
         height: 30
     - id: 7
@@ -865,7 +865,7 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 150.53432, y: 36.984142}
+    canvasScrollPosition: {x: 145.62177, y: 81.65323}
     canvasZoom: 0.40000045
   - id: 3
     fields:
