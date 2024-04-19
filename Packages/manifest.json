@@ -3,7 +3,6 @@
     "com.htc.upm.wave.essence": "https://github.com/ViveSoftware/VIVE-Wave.git?path=com.htc.upm.wave.essence",
     "com.htc.upm.wave.native": "https://github.com/ViveSoftware/VIVE-Wave.git?path=com.htc.upm.wave.native",
     "com.htc.upm.wave.xrsdk": "https://github.com/ViveSoftware/VIVE-Wave.git?path=com.htc.upm.wave.xrsdk",
-    "com.readyplayerme.core": "https://github.com/readyplayerme/rpm-unity-sdk-core.git",
     "com.unity.muse.chat": "1.0.0-pre.3",
     "com.unity.textmeshpro": "3.0.8",
     "com.unity.timeline": "1.7.6",
